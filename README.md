@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/r-jasinski/r-jasinski/master/header.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
-I'm a front-end engineer who is fascinated by bringing the best user experience. I always look forward to learning new concepts and technologies to deliver it. I’m currently working mainly with Vue.Js and I design and create prototypes of my work using Adobe products (XD, Illustrator, Photoshop).
+I'm a front-end engineer who is fascinated by bringing the best user experience. I always look forward to learning new concepts and technologies to deliver it. I’m currently working mainly with React/Vue.Js and I design and create prototypes of my work using Adobe products (XD, Illustrator, Photoshop).
 
 My last project: [https://www.ace-lms.com.br/](https://www.ace-lms.com.br/)
 
